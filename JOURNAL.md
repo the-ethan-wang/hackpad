@@ -10,3 +10,14 @@ This is my journal of the design and building process of **Hackpad**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/625).
 
 
+## 10/18/2025 - "Designed" + Routed the PCB  
+
+I just followed https://hackpad.hackclub.com/guide
+uh i still am not sure what a hackpad is but i want to make like something cool like idk a piano or smth later
+I also want a keyboard uwu
+:3
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjk1MywicHVyIjoiYmxvYl9pZCJ9fQ==--c5137691025938fb7ec2b2da5ea6b027a2b0872d/image.png)
+im like editing the pcb rn and routing it so ye wish me luck
+
+ok i like did it but idk if its good its fineeeeeeeee  
+
